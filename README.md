@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hey there, im Tobi, 18 year old programmer from austria :) On my page u will find school projects, personal projects and coding challenges
+
+- 🔭 I’m currently working on my software engineering thesis for school
+- 🌱 I’m currently learning python and electron
+- 💬 Ask me about what games i play :)
+- 📫 How to reach me: Discord: txsh#5431
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love snakes 
+
 <!--
 **tXshcode/tXshcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
